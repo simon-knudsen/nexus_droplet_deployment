@@ -1,4 +1,4 @@
-# Run Nexus on DigitalOcean and Publish Artifacts
+Run Nexus on DigitalOcean and Publish Artifacts
 
 Installed Nexus Repository Manager on a DigitalOcean Droplet and published build artifacts to it from Java Gradle and Maven projects.
 
